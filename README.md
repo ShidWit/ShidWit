@@ -6,7 +6,7 @@ Welcome to the ShidWit GitHub page! This is where I showcase my badass code and 
 
 Here is the awesome project I've been working on:
 
-- [EdenMod](https://github.com/ShidWit/EdenMod): A Minecraft mod that introduces exciting new features and enhancements to the game.
+- [EdenMod](https://github.com/ShidWit/EdenMod): Eden Mod: Minecraft Fabric 1.19.2, Geckolib required. Inspired by "Eden World Builder". Nostalgic experience. Independent project. 
 
 ## Statistics
 
