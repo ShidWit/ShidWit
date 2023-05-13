@@ -1,14 +1,31 @@
 # ShidWit
 
-[![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)](https://github.com/ShidWit)
+Welcome to the ShidWit GitHub page! This is where I showcase my badass code and projects. Feel free to explore and get inspired!
 
-Welcome to the ShidWit GitHub page! This is where I showcase all my badass code and projects. Feel free to explore and get inspired!
+## Projects
 
-## Stay Connected
+Here is the awesome project I've been working on:
 
-Stay up-to-date with my latest projects and insights:
+- [EdenMod](https://github.com/ShidWit/EdenMod): A Minecraft mod that introduces exciting new features and enhancements to the game.
+
+## Statistics
+
+- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
+
+### EdenMod
+
+- ![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)
+
+- ![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)
+
+- ![GitHub contributors](https://img.shields.io/github/contributors/ShidWit/EdenMod)
+
+- ![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod)
+
+## Connect
+
+Stay connected and follow my latest updates:
 
 - GitHub: [ShidWit](https://github.com/ShidWit)
 
-Feel free to contribute, discuss, and get involved with the ShidWit community through these channels. Let's build amazing things together!
-
+Thank you for visiting my GitHub page! Don't forget to star the repositories you find interesting and share them with others. Happy coding!
