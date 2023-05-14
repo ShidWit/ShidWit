@@ -4,6 +4,8 @@ Welcome to the ShidWit GitHub page! This is where I showcase my badass code and 
 
 ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
 
+[![Your Code Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=ShidWit&layout=compact&hide_title=true&custom_title=My%20Code%20Language%20Usage)](https://github.com/ShidWit)
+
 ## Projects
 
 Here is the awesome project I've been working on:
