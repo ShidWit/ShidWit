@@ -1,25 +1,25 @@
 # ShidWit
 
 Welcome to the ShidWit GitHub page! This is where I showcase my badass code and projects. Feel free to explore and get inspired!
-- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
 
 ## Projects
 
 Here is the awesome project I've been working on:
 
-- [EdenMod](https://github.com/ShidWit/EdenMod): Eden Mod: Minecraft Fabric 1.19.2, Geckolib required. Inspired by "Eden World Builder". Nostalgic experience. Independent project. 
+- [EdenMod](https://github.com/ShidWit/EdenMod): Eden Mod: Minecraft Fabric 1.19.2, Geckolib required. Inspired by "Eden World Builder". Nostalgic experience. Independent project.
 
-- ![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/commits)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/commits)
 
-- ![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)
+### EdenMod Statistics
 
-- ![GitHub contributors](https://img.shields.io/github/contributors/ShidWit/EdenMod)
-
-- ![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod)
-
-- ![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)
-
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)
+[![EdenMod Statistics](https://github-readme-stats.vercel.app/api/pin/?username=ShidWit&repo=EdenMod&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ShidWit/EdenMod)
 
 ## Connect
 
