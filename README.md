@@ -22,6 +22,10 @@ Here is the awesome project I've been working on:
 
 - ![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod)
 
+- ![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)
+
+- ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)
+
 ## Connect
 
 Stay connected and follow my latest updates:
