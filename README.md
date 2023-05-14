@@ -1,6 +1,7 @@
 # ShidWit
 
 Welcome to the ShidWit GitHub page! This is where I showcase my badass code and projects. Feel free to explore and get inspired!
+- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
 
 ## Projects
 
@@ -19,10 +20,6 @@ Here is the awesome project I've been working on:
 - ![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)
 
 - ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)
-
-## Statistics
-
-- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
 
 ## Connect
 
