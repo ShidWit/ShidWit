@@ -8,12 +8,6 @@ Here is the awesome project I've been working on:
 
 - [EdenMod](https://github.com/ShidWit/EdenMod): Eden Mod: Minecraft Fabric 1.19.2, Geckolib required. Inspired by "Eden World Builder". Nostalgic experience. Independent project. 
 
-## Statistics
-
-- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
-
-### EdenMod
-
 - ![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)
 
 - ![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)
@@ -25,6 +19,10 @@ Here is the awesome project I've been working on:
 - ![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)
 
 - ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)
+
+## Statistics
+
+- ![GitHub followers](https://img.shields.io/github/followers/ShidWit?style=social)
 
 ## Connect
 
