@@ -15,7 +15,7 @@ Here is the awesome project I've been working on:
 [![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/network/members)
 [![GitHub contributors](https://img.shields.io/github/contributors/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/commits)
+![GitHub last commit](https://img.shields.io/github/last-commit/ShidWit/EdenMod?label=Last%20commit)
 [![GitHub code size](https://img.shields.io/github/languages/code-size/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ShidWit/EdenMod)](https://github.com/ShidWit/EdenMod/commits)
 
