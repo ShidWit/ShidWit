@@ -10,7 +10,7 @@ Here is the awesome project I've been working on:
 
 - [EdenMod](https://github.com/ShidWit/EdenMod): EdenMod is a Minecraft Fabric mod that brings the enchanting world of Eden to Minecraft. Inspired by the popular early iPhone and Android game, Eden World Builder, this mod adds a variety of creatures, blocks, and features from the original game. Immerse yourself in nostalgia as you explore and create in the captivating universe of Eden within Minecraft.
 
-   **Note: EdenMod is compatible with Minecraft Fabric 1.19.2 and utilizes Geckolib for enchanting animations.**
+   **Note: EdenMod is compatible with Minecraft Fabric 1.19.2 and utilizes Geckolib for animations.**
 
 [![GitHub stars](https://img.shields.io/github/stars/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ShidWit/EdenMod?style=social)](https://github.com/ShidWit/EdenMod/network/members)
