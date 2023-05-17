@@ -30,6 +30,6 @@ Here is the awesome project I've been working on:
 Stay connected and follow my latest updates:
 
 - GitHub: [ShidWit](https://github.com/ShidWit)
-- YouTube (its so bad dont watch): [ShidWit](https://www.youtube.com/@ShidWit)
+- YouTube: [ShidWit](https://www.youtube.com/@ShidWit)
 
 Thank you for visiting my GitHub page! Don't forget to star the repositories you find interesting and share them with others. Happy coding!
