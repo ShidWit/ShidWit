@@ -10,7 +10,7 @@ Welcome to the ShidWit GitHub page! This is where I showcase my badass code and 
 
 Stay connected and follow my latest updates:
 
-- Website: [ShidWit](https://shidwit.github.io/)
+- Website: [shidwit.github.io](https://shidwit.github.io/)
 - Twitter: [ShidlyWits](https://twitter.com/ShidlyWits)
 - GitHub: [ShidWit](https://github.com/ShidWit)
 - YouTube: [ShidWit](https://www.youtube.com/@ShidWit)
